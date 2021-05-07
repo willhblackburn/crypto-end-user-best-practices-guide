@@ -15,10 +15,25 @@ Please submit a pull request for any changes, recommendations, or additions. Thi
 ## Table of Contents
 - [TODO](#table-of-contents)
 
-## General Best Practices
-This list of general best practices should be followed by all users of cryptocurrency.
+## Best Practices 101
+As a cryptocurrency holder, you are constantly guarding against **two things**.
 
-* Your keys, your coins. Not your keys, not your coins.
+1. THEFT of funds
+2. LOSS of funds
+
+We need to use best practices to protect against both at the same time. When you are complete, ask yourself if you feel safe against both threats.
+
+## Use a Hardware Wallet
+To keep your cryptocurrency, you should utilize a hardware wallet that you physically own. Here are the steps to ensure you are doing this in a best practices manner.
+
+1. Use an industry recommended hardware wallet and purchase from the provider or an authorized retailer.
+  a. You should NEVER buy a used hardware wallet.
+3. To use the hardware wallet when connected to a device, you should have to enter a passphrase or pin that you have created.
+4. The hardware wallet should be backed up by a mnemonic phrase, a series of words you have written down.
+5. These words should be generated when YOU are setting up the wallet for the first time.
+  a. You should NEVER use a wallet that comes with a mnemonic phrase and is not generated on demand.
+5. You should write down the words on multiple pieces of paper.
+6.  
 
 ## Advanced Key Security
 The following best practices give advanced key security, and therefore fund security, but come at the trade off of user experience and ease of use. They should be followed by those wishing to maximize their security.
