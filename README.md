@@ -13,7 +13,10 @@ This list of best practices contains general guidelines and DOES NOT represent a
 Please submit a pull request for any changes, recommendations, or additions.
 
 ## Table of Contents
-- [TODO](#table-of-contents)
+- [Table of Contents](#table-of-contents)
+- [Best Practices 101](#best-practices-101)
+- [Use a Hardware Wallet](#use-a-hardware-wallet)
+- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Best Practices 101
 As a cryptocurrency holder, you are constantly guarding against **two things**.
@@ -28,17 +31,12 @@ To keep your cryptocurrency, you should utilize a hardware wallet that you physi
 
 _Note: most industry preferred hardware wallets include an onboarding process that takes you through the following steps. Do not ignore or skip any steps._
 
-1. **Use an industry recommended hardware wallet and purchase from the provider or an authorized retailer.** You should not buy a used hardware wallet unless you are experienced. [Why should I not buy a used hardware wallet?](#)
+1. **Use an industry recommended hardware wallet and purchase from the provider or an authorized retailer.** You should not buy a used hardware wallet unless you are experienced. [Why should I not buy a used hardware wallet?](#why-should-i-usually-avoid-buying-a-used-hardware-wallet)
 2. **To use the hardware wallet when connected to a device, you should have to enter a passphrase or pin that you have created.**
 3. **The hardware wallet should be backed up by a mnemonic phrase, a series of words.**
 4. **These words should be generated when YOU are setting up the wallet for the first time.** You should NEVER use a wallet that comes with a mnemonic phrase written down and/or is not generated on demand.
-5. **Write down the words on multiple pieces of paper.** Never type the words into your computer or take a picture of the paper for a backup. [Why should I not put my words on a computer or phone?](#)
-6. **Store the pieces of paper in separate safe places where others cannot get to them.** Such as a safe, safe deposit box, lockbox, etc. [Why store them in separate places?](#)
-
-## Advanced Key Security
-The following best practices give advanced key security, and therefore fund security, but come at the trade off of user experience and ease of use. They should be followed by those wishing to maximize their security.
-
-* Multi-signature wallet
+5. **Write down the words on multiple pieces of paper.** Never type the words into your computer or take a picture of the paper for a backup. [Why should I not put my words on a computer or phone?](#why-should-i-never-put-my-mnemonic-backup-phrase-on-a-computer-or-take-a-picture-of-the-written-words)
+6. **Store the pieces of paper in separate safe places where others cannot get to them.** Such as a safe, safe deposit box, lockbox, etc. [Why store them in separate places?](#why-store-the-pieces-of-paper-in-separate-places)
 
 ### Frequently Asked Questions
 
