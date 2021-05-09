@@ -6,11 +6,11 @@ As new users are onboarded into cryptocurrency, it is difficult for them to quic
 
 This guide is proposed as a collaborative effort for listing simple best practices that any crypto user can follow to mitigate risk and improve their experience.
 
-This list of best practices contains general guidelines and DO NOT represent any guarantee of security or protection of funds. The responsibility remains solely with the end user.
+This list of best practices contains general guidelines and DOES NOT represent any guarantee of security or protection of funds. The responsibility remains solely with the end user.
 
 ## Contributions are welcome!
 
-Please submit a pull request for any changes, recommendations, or additions. This is not an original work.
+Please submit a pull request for any changes, recommendations, or additions.
 
 ## Table of Contents
 - [TODO](#table-of-contents)
@@ -18,24 +18,38 @@ Please submit a pull request for any changes, recommendations, or additions. Thi
 ## Best Practices 101
 As a cryptocurrency holder, you are constantly guarding against **two things**.
 
-1. THEFT of funds
-2. LOSS of funds
+1. THEFT of funds - a bad actor steals your funds.
+2. LOSS of funds - you lose access to the private keys needed to transfer and use your funds.
 
-We need to use best practices to protect against both at the same time. When you are complete, ask yourself if you feel safe against both threats.
+We need to use best practices to protect against both at the same time. When you are complete with your wallet setup, ask yourself if you feel safe against both threats.
 
 ## Use a Hardware Wallet
 To keep your cryptocurrency, you should utilize a hardware wallet that you physically own. Here are the steps to ensure you are doing this in a best practices manner.
 
-1. Use an industry recommended hardware wallet and purchase from the provider or an authorized retailer.
-  a. You should NEVER buy a used hardware wallet.
-3. To use the hardware wallet when connected to a device, you should have to enter a passphrase or pin that you have created.
-4. The hardware wallet should be backed up by a mnemonic phrase, a series of words you have written down.
-5. These words should be generated when YOU are setting up the wallet for the first time.
-  a. You should NEVER use a wallet that comes with a mnemonic phrase and is not generated on demand.
-5. You should write down the words on multiple pieces of paper.
-6.  
+_Note: most industry preferred hardware wallets include an onboarding process that takes you through the following steps. Do not ignore or skip any steps._
+
+1. **Use an industry recommended hardware wallet and purchase from the provider or an authorized retailer.** You should not buy a used hardware wallet unless you are experienced. [Why should I not buy a used hardware wallet?](#)
+2. **To use the hardware wallet when connected to a device, you should have to enter a passphrase or pin that you have created.**
+3. **The hardware wallet should be backed up by a mnemonic phrase, a series of words.**
+4. **These words should be generated when YOU are setting up the wallet for the first time.** You should NEVER use a wallet that comes with a mnemonic phrase written down and/or is not generated on demand.
+5. **Write down the words on multiple pieces of paper.** Never type the words into your computer or take a picture of the paper for a backup. [Why should I not put my words on a computer or phone?](#)
+6. **Store the pieces of paper in separate safe places where others cannot get to them.** Such as a safe, safe deposit box, lockbox, etc. [Why store them in separate places?](#)
 
 ## Advanced Key Security
 The following best practices give advanced key security, and therefore fund security, but come at the trade off of user experience and ease of use. They should be followed by those wishing to maximize their security.
 
 * Multi-signature wallet
+
+### Frequently Asked Questions
+
+#### Why should I usually avoid buying a used hardware wallet?
+
+A frequent scam involves a bad actor buying and configuring hardware wallets, writing down the mnemonic backup phrase, and reselling the device. Then, once a victims funds are loaded, the bad actor transfers the funds from a new wallet they have set up with the backup phrase.
+
+#### Why should I NEVER put my mnemonic backup phrase on a computer or take a picture of the written words?
+
+Your mnemonic phrase is the backup to all private keys on your device. This means that whoever gets their hands on it has access to transfer any of your cryptocurrencies. If you store it in a file on a computer or have an image of it on your phone, bad actors can possibly get to it and drain your accounts.
+
+#### Why store the pieces of paper in separate places?
+
+As we discussed, we must protect from loss of funds. If a disaster such as a flood or fire destroys your paper backup, you will not have a way to recover your private keys and your funds if the hardware wallet is lost or corrupted.
