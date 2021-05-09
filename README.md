@@ -33,7 +33,7 @@ _Note: most industry preferred hardware wallets include an onboarding process th
 
 1. **Use an industry recommended hardware wallet and purchase from the provider or an authorized retailer.** You should not buy a used hardware wallet unless you are experienced. [Why should I not buy a used hardware wallet?](#why-should-i-usually-avoid-buying-a-used-hardware-wallet)
 2. **To use the hardware wallet when connected to a device, you should have to enter a passphrase or pin that you have created.**
-3. **The hardware wallet should be backed up by a mnemonic phrase, a series of words.**
+3. **The hardware wallet should be backed up by a mnemonic phrase, a series of words.** [What is a mnemonic phrase & why should it use one?](#what-is-a-mnemonic-phrase-and-why-should-it-use-one)
 4. **These words should be generated when YOU are setting up the wallet for the first time.** You should NEVER use a wallet that comes with a mnemonic phrase written down and/or is not generated on demand.
 5. **Write down the words on multiple pieces of paper.** Never type the words into your computer or take a picture of the paper for a backup. [Why should I not put my words on a computer or phone?](#why-should-i-never-put-my-mnemonic-backup-phrase-on-a-computer-or-take-a-picture-of-the-written-words)
 6. **Store the pieces of paper in separate safe places where others cannot get to them.** Such as a safe, safe deposit box, lockbox, etc. [Why store them in separate places?](#why-store-the-pieces-of-paper-in-separate-places)
@@ -43,6 +43,10 @@ _Note: most industry preferred hardware wallets include an onboarding process th
 #### Why should I usually avoid buying a used hardware wallet?
 
 A frequent scam involves a bad actor buying and configuring hardware wallets, writing down the mnemonic backup phrase, and reselling the device. Then, once a victims funds are loaded, the bad actor transfers the funds from a new wallet they have set up with the backup phrase.
+
+#### What is a mnemonic phrase and why should it use one?
+
+A mnemonic phrase is a series of words (usually 24 words) that allows your hardware wallet to restore your private keys. The benefit to using a mnemonic phrase over a random long series of numbers & letters is two-fold. Firstly, it is easier to correctly copy the known english words when you are writting your backup. It's easier to write `before` correctly than `bl01Ofe3`. Secondly, if you did incorrectly transcribe a word you can more easily narrow down the correct word. It's easy to see that `befor` is probably `before`.
 
 #### Why should I NEVER put my mnemonic backup phrase on a computer or take a picture of the written words?
 
