@@ -42,16 +42,16 @@ _Note: most industry preferred hardware wallets include an onboarding process th
 
 #### Why should I usually avoid buying a used hardware wallet?
 
-A frequent scam involves a bad actor buying and configuring hardware wallets, writing down the mnemonic backup phrase, and reselling the device. Then, once a victims funds are loaded, the bad actor transfers the funds from a new wallet they have set up with the backup phrase.
+A frequent scam involves a bad actor buying and configuring hardware wallets, writing down the mnemonic backup phrase, and reselling the device. Then, once a victim's funds are loaded, the bad actor transfers the funds from a new wallet they have set up with the backup phrase.
 
 #### What is a mnemonic phrase and why should it use one?
 
-A mnemonic phrase is a series of words (usually 24 words) that allows your hardware wallet to restore your private keys. The benefit to using a mnemonic phrase over a random long series of numbers & letters is two-fold. Firstly, it is easier to correctly copy the known english words when you are writting your backup. It's easier to write `before` correctly than `bl01Ofe3`. Secondly, if you did incorrectly transcribe a word you can more easily narrow down the correct word. It's easy to see that `befor` is probably `before`.
+A mnemonic phrase is a series of words (usually 24 words) that allows your hardware wallet to restore your private keys. An example is, `before hat clarify...`. The benefit to using a mnemonic phrase over a random long series of numbers & letters is two-fold. First, it is easier to correctly copy the known english words when you are writting your backup. It's easier to write `before` correctly than `bl01Ofe3`. Secondly, if you did incorrectly transcribe a word, you can more easily figure out the correct word. It's easy to see that `befor` is probably `before`.
 
 #### Why should I NEVER put my mnemonic backup phrase on a computer or take a picture of the written words?
 
-Your mnemonic phrase is the backup to all private keys on your device. This means that whoever gets their hands on it has access to transfer any of your cryptocurrencies. If you store it in a file on a computer or have an image of it on your phone, bad actors can possibly get to it and drain your accounts.
+Your mnemonic phrase is the backup to ALL private keys on your device. This means that whoever gets their hands on it has access to transfer any of your cryptocurrencies. If you store it in a file on a computer or have an image of it on your phone, bad actors can possibly get to it and drain your accounts.
 
 #### Why store the pieces of paper in separate places?
 
-As we discussed, we must protect from loss of funds. If a disaster such as a flood or fire destroys your paper backup, you will not have a way to recover your private keys and your funds if the hardware wallet is lost or corrupted.
+As we discussed, we must protect from loss of funds. If a disaster such as a flood or fire destroys your paper backup, you will not have a way to recover your private keys and your funds if the hardware wallet is lost or corrupted. Storing the pieces in separate locations minimizes the risk of loss.
